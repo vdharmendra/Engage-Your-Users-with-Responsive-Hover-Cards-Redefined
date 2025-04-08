@@ -26,29 +26,29 @@ This project showcases a modern and dynamic Responsive Hover Card effect that en
 
 <br>
 <span>Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="./img/" width="575px"/>
+<a href="https://www.behance.net/gallery/223222773/Responsive-Hover-Cards-Redefined" target="_blank" >
+<img src="./galleryImgCardHoverAnimation.gif" width="575px"/>
 </a>
 
 <br>
 <span>Desktop UI UX Design</span><br/>
-<a href="#" target="_blank" >
-<img src="./img/" width="575px"/>
+<a href="https://www.behance.net/gallery/223222773/Responsive-Hover-Cards-Redefined" target="_blank" >
+<img src="./galleryImgCardHoverUIUXLayoutAnimation.gif" width="575px"/>
 </a>
 <br />
-<span>Desktop Design ui-ux Layout</span><br/>
-<a href="#" target="_blank" >
-<img src="./img/" width="325px"/>
-<img src="./img/" width="325px"/>
+<span>Desktop Design UI UX Layout</span><br/>
+<a href="https://www.behance.net/gallery/223222773/Responsive-Hover-Cards-Redefined" target="_blank" >
+<img src="./galleryImgCard.png" width="325px"/>
+<img src="./galleryImgCardHoverAnimation.png" width="325px"/>
 </a>
 <br />
 <span>Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="./img/" width="325px"/>
-<img src="./img/" width="325px"/>
+<a href="https://www.behance.net/gallery/223222773/Responsive-Hover-Cards-Redefined" target="_blank" >
+<img src="./galleryImgCardUIUXLayout.png" width="325px"/>
+<img src="./galleryImgCardHoverUIUXLayout.png" width="325px"/>
 </a>
 
 <span>Cover</span><br/>
-<a href="#" target="_blank" >
-<img src="./img/" width="575px"/>
+<a href="https://www.behance.net/gallery/223222773/Responsive-Hover-Cards-Redefined" target="_blank" >
+<img src="./cover.png" width="575px"/>
 </a>
